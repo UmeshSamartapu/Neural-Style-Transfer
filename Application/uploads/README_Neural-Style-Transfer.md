@@ -135,7 +135,7 @@ Web_Application/
 
 ## 🧑‍💻 Author
 
-**Umesh Samartapu**  
+**Amit Prajapati**  
 Student at Avanthi Institute of Engineering and Technology
 
 ---
