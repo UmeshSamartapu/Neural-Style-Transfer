@@ -1,8 +1,7 @@
 
-# Prodigy Infotech - Task 05: Neural Style Transfer 🎨
+# Neural Style Transfer 🎨
 
-This project is a submission for **Prodigy Infotech's Internship Program**. 
-The task was to perform **Neural Style Transfer** — applying the artistic style of one image (like a famous painting) onto another image (the content image) using deep learning.
+**Neural Style Transfer** — applying the artistic style of one image (like a famous painting) onto another image (the content image) using deep learning.
 
 Both a Jupyter notebook for experimentation and a **Web Application** for user-friendly interaction are included.
 
